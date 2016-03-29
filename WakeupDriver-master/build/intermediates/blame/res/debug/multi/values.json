@@ -1,0 +1,562 @@
+[
+    {
+        "outputFile": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 57,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 55,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 53,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 53,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 52,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 57,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1110,
+                        "endColumn": 57,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 57,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 57,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 55,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 51,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 51,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 43,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 43,
+                        "endOffset": 1321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 55,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 55,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 55,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 55,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 43,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 43,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 57,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 57,
+                        "endOffset": 1105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 49,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 49,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 37,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 37,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 41,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 41,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 52,
+                    "endOffset": 1193
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1198,
+                    "endColumn": 40,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 40,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 56,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 56,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1296,
+                    "endColumn": 47,
+                    "endOffset": 1339
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 47,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1344,
+                    "endColumn": 46,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 46,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 43,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 43,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 53,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 53,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 57,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 57,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endColumn": 57,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 57,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endColumn": 45,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 45,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endColumn": 44,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 44,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "C:\\Users\\Henry\\AndroidStudioProjects\\WearHack3\\WakeupDriver-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

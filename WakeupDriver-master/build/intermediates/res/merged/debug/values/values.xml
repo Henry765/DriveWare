@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GraphViewXML"><attr format="string" name="seriesData"/><attr format="string" name="seriesType"/><attr format="string" name="seriesTitle"/><attr name="android:title"/><attr format="color" name="seriesColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="accel">Accelerometer Data:</string>
+    <string name="action_settings">Settings</string>
+    <string name="alpha_absolute">Alpha Absolute</string>
+    <string name="alpha_relative">Alpha Relative</string>
+    <string name="app_name">TestLibMuseAndroid</string>
+    <string name="artifacts">Blinks, Jaw: </string>
+    <string name="average">Average</string>
+    <string name="beta_absolute">Beta Absolute</string>
+    <string name="beta_relative">Beta Relative</string>
+    <string name="connect">Connect</string>
+    <string name="delta_relative">Delta Relative</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="drop">Drop</string>
+    <string name="eeg">EEG data:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="init_val">0.0</string>
+    <string name="msg_count">Msg number, size: </string>
+    <string name="muse_elem">Elements:</string>
+    <string name="pause">Pause/Resume</string>
+    <string name="refresh">Refresh</string>
+    <string name="status">Connection Status:</string>
+    <string name="theta_absolute">Theta Absolute</string>
+    <string name="theta_relative">Theta Relative</string>
+    <string name="undefined">unknown</string>
+    <string name="version">Version:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
